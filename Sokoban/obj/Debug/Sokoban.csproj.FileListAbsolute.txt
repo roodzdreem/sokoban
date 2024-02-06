@@ -1,0 +1,11 @@
+C:\progs\csharp\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+C:\progs\csharp\Sokoban\Sokoban\bin\Debug\Sokoban.exe
+C:\progs\csharp\Sokoban\Sokoban\bin\Debug\Sokoban.pdb
+C:\progs\csharp\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.AssemblyReference.cache
+C:\progs\csharp\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.SuggestedBindingRedirects.cache
+C:\progs\csharp\Sokoban\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\progs\csharp\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.cache
+C:\progs\csharp\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.CoreCompileInputs.cache
+C:\progs\csharp\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+C:\progs\csharp\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
+C:\progs\csharp\Sokoban\Sokoban\obj\Debug\Sokoban.Form1.resources
